@@ -1,24 +1,56 @@
-## Hey there ! My name is Modukpè 🍵
-With a degree in Computer Expertise and a passion for mobile ad web development especially frontend development, I strive to enrich my technical skills while applying my creativity to innovative projects.  
+# Modukpè | Frontend Developer 👋
 
-I've contributed to numerous technical projects using languages such as C, C++ and Python, as well as frameworks like Flutter, ReactJS and React Native.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anaïs-asse-akakpo-6ba00324a/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:anais.asse.akakpo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=flat-square&logo=react)](/)
 
-Adaptable and creative, I enjoy expanding my skills across various fields ✨
+## About Me 🚀
 
-## 🌱 I’m currently learning ...
+Frontend developer with expertise in mobile and web development. Computer Science graduate passionate about creating innovative, user-centric applications. Specializing in React ecosystem while continuously expanding my technical horizons.
 
-Convinced that learning is a continuous process, I strive to perfect my mastery of various programming languages, with a particular focus on the frameworks I use most: Flutter, React JS and React Native. I develop these skills by working on a variety of web and mobile projects, which you can explore by visiting my portfolio :)
+## Core Skills 💻
 
-## 💻 My tech stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React JS](https://img.shields.io/badge/react_js-%2302569B.svg?style=for-the-badge&logo=react_js&logoColor=white)  ![Vite JS](https://img.shields.io/badge/vite_js-%2302569B.svg?style=for-the-badge&logo=vite_js&logoColor=white)  ![Next JS](https://img.shields.io/badge/next_js-%2302569B.svg?style=for-the-badge&logo=next_js&logoColor=white)  ![Nest JS](https://img.shields.io/badge/nest_js-%2302569B.svg?style=for-the-badge&logo=nest_js&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%2302569B.svg?style=for-the-badge&logo=php&logoColor=white)
+### Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Canva](https://www.canva.com)
+## Currently Learning 🌱
 
-## 📫 How to reach me
-- My mail : anais.asse.akakpo@gmail.com
-- Sharing updates on <a href="https://www.linkedin.com/in/anaïs-asse-akakpo-6ba00324a/">LinkedIn</a> 💼
-- My portfolio : Coming soon...
+- Advanced React patterns and performance optimization
+- Mobile app development best practices
+- UI/UX design principles
+- State management solutions
+- Backend integration with Node.js
+
+## Let's Connect 🤝
+
+- 📧 Email: [anais.asse.akakpo@gmail.com](mailto:anais.asse.akakpo@gmail.com)
+- 💼 LinkedIn: [Anaïs Asse Akakpo](https://www.linkedin.com/in/anaïs-asse-akakpo-6ba00324a/)
+- 🌐 Portfolio: Coming soon...
+
+---
+
+<div align="center">
+
+*"Building digital experiences that make a difference"*
+
+</div>
