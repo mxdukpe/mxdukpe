@@ -45,6 +45,7 @@ Frontend developer with expertise in mobile and web development. Computer Scienc
 
 - 📧 Email: [anais.asse.akakpo@gmail.com](mailto:anais.asse.akakpo@gmail.com)
 - 💼 LinkedIn: [Anaïs Asse Akakpo](https://www.linkedin.com/in/anaïs-asse-akakpo-6ba00324a/)
+- 📝 Resume: [CV_Anaïs ASSE AKAKPO](https://rose-maible-1.tiiny.site)
 - 🌐 Portfolio: Coming soon...
 
 ---
